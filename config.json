@@ -1,0 +1,16 @@
+{
+    "telegram": {
+        "token": "8092594889:AAHasKd9mHknN6aLvzReFxcoBJJDEPpRYLw",
+        "chat_id": "1165405170"
+
+    },
+    "gpio": {
+        "pir_pin": 4,
+        "buzzer_pin": 26,
+        "buzzer_frequency": 2000
+    },
+    "camera": {
+        "model_path": "test2.tflite",
+        "video_duration": 5
+    }
+}
